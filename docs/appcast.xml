@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <!-- Tytuł kanału aktualizacji -->
+    <title>Coactor Processor Aktualizacje</title>
+    <!-- Opcjonalny opis feeda -->
+    <description>Update feed dla Coactor Processor</description>
+
+    <!-- POZYCJA = WERSJA 1.2.0 -->
+    <item>
+      <!-- Wyświetlana nazwa wersji -->
+      <title>Version 1.2.0</title>
+      <!-- Link do notatek wydania (hostowane w docs/) -->
+      <sparkle:releaseNotesLink>
+        https://wroca.github.io/coacprocess/docs/release-notes-1.2.0.html
+      </sparkle:releaseNotesLink>
+      <!-- Data publikacji w formacie RFC 2822 -->
+      <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
+      <!-- Enclosure wskazuje na plik DMG w GitHub Releases -->
+      <enclosure
+        url="https://github.com/wroca/coacprocess/releases/download/v1.2.0/CoactorProcessor-1.2.0.dmg"
+        sparkle:version="1.2.0"
+        length="45362784"
+        type="application/octet-stream"/>
+    </item>
+
+    <!-- Możesz dodać kolejne <item> powyżej, jeżeli chcesz zachować historię wydań -->
+  </channel>
+</rss>
