@@ -13,7 +13,7 @@
       <title>Version 1.2.0</title>
       <!-- Link do notatek wydania (hostowane w docs/) -->
       <sparkle:releaseNotesLink>
-        https://raw.githubusercontent.com/wroca/coacprocess/refs/heads/main/docs/release-notes-1.2.0.html
+        https://raw.githubusercontent.com/wroca/coacprocess/docs/release-notes-1.2.0.html
       </sparkle:releaseNotesLink>
       <!-- Data publikacji w formacie RFC 2822 -->
       <pubDate>Wed, 14 May 2025 12:00:00 +0000</pubDate>
